@@ -181,8 +181,9 @@ This project is for educational purposes. Please ensure compliance with medical 
 
 ---
 
-**🌐 Live Demo**: http://localhost:8501 (when running locally)
+**🌐 Live Demo**:https://aimedicalchatbot-x5vauj7uezyhr43zhtaael.streamlit.app/
 
 **📧 Contact**: For questions about this educational project
 
 **⭐ Star this repo** if you find it helpful for learning RAG systems!
+
