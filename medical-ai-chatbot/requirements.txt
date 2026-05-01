@@ -2,12 +2,9 @@ streamlit
 langchain
 langchain-community
 langchain-groq
-langchain-huggingface
 langchain-text-splitters
 sentence-transformers==2.2.2
 chromadb
 python-dotenv
 PyPDF2
 pymupdf
-torch==2.0.1
-torchvision==0.15.2
